@@ -66,3 +66,4 @@ const countStudents = (Path) => {
 
 // Export the countStudents function to make it accessible to other modules
 module.exports = countStudents;
+
